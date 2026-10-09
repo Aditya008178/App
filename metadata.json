@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse - Fitness & Nutrition",
+  "description": "Comprehensive personal fitness and meal tracking with wearable sync, nutrition analysis, custom reminders, and social achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
